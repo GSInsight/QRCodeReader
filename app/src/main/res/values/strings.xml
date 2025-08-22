@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">QR Scanner</string>
+
+    <!-- 메인 화면 -->
+    <string name="scan_instruction">QR 코드를 화면 중앙에 맞춰주세요</string>
+    <string name="scan_ready">스캔 준비 중...</string>
+    <string name="scan_searching">QR 코드를 찾는 중...</string>
+    <string name="scan_complete">QR 코드 인식 완료!</string>
+    <string name="scan_error">스캔 중 오류 발생</string>
+    <string name="align_qr">QR 코드를 더 명확하게 맞춰주세요</string>
+
+    <!-- 권한 -->
+    <string name="camera_permission_required">카메라 권한이 필요합니다.</string>
+    <string name="camera_start_failed">카메라를 시작할 수 없습니다.</string>
+
+    <!-- 플래시 -->
+    <string name="flash_on">플래시 켜짐</string>
+    <string name="flash_off">플래시 꺼짐</string>
+
+    <!-- 결과 화면 -->
+    <string name="scan_result_title">QR 코드 스캔 완료</string>
+    <string name="scan_result_subtitle">다음 내용이 발견되었습니다</string>
+    <string name="qr_type_label">타입</string>
+    <string name="qr_content_label">내용</string>
+    <string name="scan_time_label">스캔 시간</string>
+    <string name="no_content">내용을 읽을 수 없습니다.</string>
+
+    <!-- 버튼 -->
+    <string name="copy">복사</string>
+    <string name="share">공유</string>
+    <string name="scan_again">다시 스캔</string>
+    <string name="open_url">열기</string>
+
+    <!-- QR 타입 -->
+    <string name="qr_type_url">URL</string>
+    <string name="qr_type_phone">전화번호</string>
+    <string name="qr_type_email">이메일</string>
+    <string name="qr_type_sms">SMS</string>
+    <string name="qr_type_wifi">WiFi</string>
+    <string name="qr_type_location">위치</string>
+    <string name="qr_type_number">숫자</string>
+    <string name="qr_type_text">텍스트</string>
+
+    <!-- 토스트 메시지 -->
+    <string name="copied_to_clipboard">클립보드에 복사되었습니다</string>
+    <string name="no_share_app">공유할 수 있는 앱이 없습니다</string>
+    <string name="cannot_open_url">URL을 열 수 없습니다</string>
+
+    <!-- 공유 -->
+    <string name="share_qr_content">QR 코드 내용 공유</string>
+    <string name="share_subject">QR 코드 내용</string>
+</resources>
